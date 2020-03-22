@@ -207,3 +207,5 @@ g.close()
 #### Concluzii:
 ####   - Pe anumite teste Count Sort-ul functioneaza mai lent decat QS, RS, respectiv MS
 ####   - Bubble Sort-ul este cel mai lent dintre cele 5 sortari
+####   - Count Sort-ul este foarte rapid pentru numere mai mici decat 10^7, complexitatea acestuia fiind O(n)
+####   - Pentru numere mai mari de 10^7 este utila folosirea algoritmului QuickSort, care are o complexitate de O(nlogn)
