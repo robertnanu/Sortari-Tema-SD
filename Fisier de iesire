@@ -1,0 +1,36 @@
+Pentru sortarea: <built-in function sorted>
+
+Timpul de executie este de: 0.003989458084106445 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.003992557525634766 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.0030078887939453125 secunde pentru acest test ; Iar aceasta este: Corecta
+
+Pentru sortarea: <function BS at 0x028C9E88>
+
+Timpul de executie este de: 21.373611211776733 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 21.98715329170227 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 21.223777770996094 secunde pentru acest test ; Iar aceasta este: Corecta
+
+Pentru sortarea: <function MS at 0x029F6D20>
+
+Timpul de executie este de: 0.0760340690612793 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.08286166191101074 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.07471179962158203 secunde pentru acest test ; Iar aceasta este: Corecta
+
+Pentru sortarea: <function RS at 0x029F6DB0>
+
+Timpul de executie este de: 0.014955282211303711 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.01342320442199707 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.014423608779907227 secunde pentru acest test ; Iar aceasta este: Corecta
+
+Pentru sortarea: <function QS at 0x029F6DF8>
+
+Timpul de executie este de: 0.04983878135681152 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.04878854751586914 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.0496673583984375 secunde pentru acest test ; Iar aceasta este: Corecta
+
+Pentru sortarea: <function CS at 0x029F6E40>
+
+Timpul de executie este de: 0.14476275444030762 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.14442753791809082 secunde pentru acest test ; Iar aceasta este: Corecta
+Timpul de executie este de: 0.16902828216552734 secunde pentru acest test ; Iar aceasta este: Corecta
+
